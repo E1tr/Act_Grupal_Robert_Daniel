@@ -4,3 +4,7 @@ function login() {
     let pass = "1234";
     return true;
 }
+
+function showDashboard() {
+    console.log("Bienvenido al panel principal");
+}
